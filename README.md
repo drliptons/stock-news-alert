@@ -1,7 +1,7 @@
 <div id="top"></div>
 # Stock News Alert
 
-![image](password-manager-preview.png)
+![image](stock-news-alert-preview.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -28,7 +28,7 @@ The code has nothing fancy. It shows an arrow up when the price is going up and 
 A headline, a couple of lines of the news, and the link to it will also be in the message.
 
 
-**Repository:** [Password Manager](https://github.com/drliptons/stock-news-alert)
+**Repository:** [Stock News Alert](https://github.com/drliptons/stock-news-alert)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
